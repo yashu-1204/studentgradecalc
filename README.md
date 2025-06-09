@@ -4,7 +4,8 @@
 
 This Java project takes a student's marks, calculates their percentage, assigns a grade based on predefined criteria, displays the result in the terminal, and saves it to a text file.
 
-🎯 _Created as part of my Object-Oriented Programming learning._
+🎯 \_Created as part of my Java programming learning
+
 
 ## 👩‍💻 Features
 
