@@ -16,4 +16,4 @@ This Java project takes a student's marks, calculates their percentage, assigns 
 
 ## 📁 Project Structure
 
-![Sample Output](screenshots/output_screenshot.png)
+![Sample Output](output_screenshot.png)
